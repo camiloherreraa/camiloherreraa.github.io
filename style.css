@@ -31,6 +31,10 @@
     margin-left: 20px;
 }
 
+.contact-info-item:hover {
+    color: #a5d4ff;
+}
+
 .skill {
     display: flex;
     flex-direction: row;
